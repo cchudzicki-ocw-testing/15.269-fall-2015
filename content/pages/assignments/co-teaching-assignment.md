@@ -1,8 +1,12 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 710b3de0-e593-762c-498d-ab15f2739011
 title: Co-teaching Assignment
+type: CourseSection
 uid: 4ec4154a-75e0-2e2b-a1a3-bd9f74e134c9
 ---
 

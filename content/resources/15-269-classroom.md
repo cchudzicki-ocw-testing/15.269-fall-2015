@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: 15.269 classroom
+type: OCWImage
 uid: 95d320f7-def1-617f-d6b0-0574a37f5707
 ---
