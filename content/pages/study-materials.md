@@ -6,7 +6,7 @@ title: Study Materials
 uid: 6fca2e51-2c4e-8599-b3d1-bda4a7b5cbf2
 ---
 
-Required readings and movies for these study questions can be found in the [Readings]({{< baseurl >}}/pages/readings) section.
+Required readings and movies for these study questions can be found in the {{< resource_link 339083d5-0871-cd11-53f2-c10d9ec732b5 "Readings" >}} section.
 
 1.  [Introduction: The Importance of Story]({{< baseurl >}}/pages/study-materials#I)
 2.  [Ethics and Authority]({{< baseurl >}}/pages/study-materials#E)

@@ -22,7 +22,7 @@ _Team Process_: Teams of 5 students each will be randomly composed by the end of
 4.  ### {{< anchor "2" >}}{{< /anchor >}}One Team Co-teaching Exercise
     
 
-The team will also be responsible for co-leading one full class, to be selected by the team during the third week of the semester which is worth 10% of your grade. Again, that grade will apply to the entire team, except for any team member(s) who didn't contribute to the preparatory effort, and who will therefore receive a "0" for that assignment. A full description of the rationale for and logistics of the exercise can be found here: [Co-teaching Assignment]({{< baseurl >}}/pages/assignments/co-teaching-assignment).
+The team will also be responsible for co-leading one full class, to be selected by the team during the third week of the semester which is worth 10% of your grade. Again, that grade will apply to the entire team, except for any team member(s) who didn't contribute to the preparatory effort, and who will therefore receive a "0" for that assignment. A full description of the rationale for and logistics of the exercise can be found here: {{< resource_link 4ec4154a-75e0-2e2b-a1a3-bd9f74e134c9 "Co-teaching Assignment" >}}.
 
 6.  ### {{< anchor "3" >}}{{< /anchor >}}Two Individual Papers
     
