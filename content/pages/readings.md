@@ -7,7 +7,7 @@ title: Readings
 uid: 339083d5-0871-cd11-53f2-c10d9ec732b5
 ---
 
-A set of related {{< resource_link 6fca2e51-2c4e-8599-b3d1-bda4a7b5cbf2 "study questions" >}} are available for the readings and viewings in this course. 
+A set of related {{% resource_link 6fca2e51-2c4e-8599-b3d1-bda4a7b5cbf2 "study questions" %}} are available for the readings and viewings in this course. 
 
 {{< tableopen >}}
 {{< theadopen >}}

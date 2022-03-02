@@ -6,13 +6,13 @@ title: Study Materials
 uid: 6fca2e51-2c4e-8599-b3d1-bda4a7b5cbf2
 ---
 
-Required readings and movies for these study questions can be found in the {{< resource_link 339083d5-0871-cd11-53f2-c10d9ec732b5 "Readings" >}} section.
+Required readings and movies for these study questions can be found in the {{% resource_link 339083d5-0871-cd11-53f2-c10d9ec732b5 "Readings" %}} section.
 
-1.  {{< resource_link 6fca2e51-2c4e-8599-b3d1-bda4a7b5cbf2 "Introduction: The Importance of Story" "#I" >}}
-2.  {{< resource_link 6fca2e51-2c4e-8599-b3d1-bda4a7b5cbf2 "Ethics and Authority" "#E" >}}
-3.  {{< resource_link 6fca2e51-2c4e-8599-b3d1-bda4a7b5cbf2 "Leading from my Moral Compass" "#L" >}}
-4.  {{< resource_link 6fca2e51-2c4e-8599-b3d1-bda4a7b5cbf2 "Social Enterprise" "#S" >}}
-5.  {{< resource_link 6fca2e51-2c4e-8599-b3d1-bda4a7b5cbf2 "Conclusion: Leading Through Story" "#C" >}}
+1.  {{% resource_link 6fca2e51-2c4e-8599-b3d1-bda4a7b5cbf2 "Introduction: The Importance of Story" "#I" %}}
+2.  {{% resource_link 6fca2e51-2c4e-8599-b3d1-bda4a7b5cbf2 "Ethics and Authority" "#E" %}}
+3.  {{% resource_link 6fca2e51-2c4e-8599-b3d1-bda4a7b5cbf2 "Leading from my Moral Compass" "#L" %}}
+4.  {{% resource_link 6fca2e51-2c4e-8599-b3d1-bda4a7b5cbf2 "Social Enterprise" "#S" %}}
+5.  {{% resource_link 6fca2e51-2c4e-8599-b3d1-bda4a7b5cbf2 "Conclusion: Leading Through Story" "#C" %}}
 
 {{< anchor "I" >}}{{< /anchor >}}1\. Introduction: The Importance of Story
 --------------------------------------------------------------------------
