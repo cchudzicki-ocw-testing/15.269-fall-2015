@@ -1,5 +1,6 @@
 ---
 content_type: page
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -9,8 +10,7 @@ parent_uid: 8006240c-ad08-b192-b82c-5e5373202344
 title: Teaching Leadership by Having Students Teach in Teams
 uid: 99236087-ccf6-4d70-bb62-c27393cde3f8
 ---
-
-_In this section, Leigh Hafrey describes the team-based co-teaching experience students encounter in 15.269 Leadership Stories: Literature, Ethics, and Authority._
+_In this section, Leigh Hafrey describes the team-based co-teaching experience students encounter in_ 15.269 Leadership Stories: Literature, Ethics, and Authority.
 
 {{< quote "Teamwork in the course aims to encourage the students simultaneously to appreciate that they're different and to recognize that they then need to master that difference in order to achieve ends." "— Leigh Hafrey" >}}
 
