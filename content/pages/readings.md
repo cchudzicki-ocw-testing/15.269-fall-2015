@@ -160,7 +160,7 @@ Frayn, Michael. *Copenhagen*. Methuen Drama, 1998. ISBN: 9780413724908.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
- [*Slumdog Millionare*](http://www.imdb.com/title/tt1010048/). Directed by Danny Boyle. Color, 120 min. 2008.
+ [*Slumdog Millionaire*](http://www.imdb.com/title/tt1010048/). Directed by Danny Boyle. Color, 120 min. 2008.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
