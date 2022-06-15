@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'In this section, Dr. Leigh Hafrey explains the meaning behind the slogan
+  for 15.269 Leadership Stories: Literature, Ethics, and Authority.  '
 draft: false
 layout: instructor_insights
 learning_resource_types: []

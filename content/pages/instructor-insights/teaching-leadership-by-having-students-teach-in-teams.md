@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'In this section, Leigh Hafrey describes the team-based co-teaching experience
+  students encounter in 15.269 Leadership Stories: Literature, Ethics, and Authority.'
 draft: false
 layout: instructor_insights
 learning_resource_types: []

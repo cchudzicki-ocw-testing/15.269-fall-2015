@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'In this section, Dr. Leigh Hafrey shares both how the course has remained
+  the same since he began teaching it and how the structure of 15.269 Leadership Stories:
+  Literature, Ethics, and Authority has changed over the years.'
 draft: false
 layout: instructor_insights
 learning_resource_types: []
