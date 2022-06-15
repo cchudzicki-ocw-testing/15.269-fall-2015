@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section describes the assignments and student deliverables for the
+  course.
 draft: false
 learning_resource_types:
 - Assignments

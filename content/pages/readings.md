@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides citations and links to the readings and viewings
+  assigned for each session of the course.
 draft: false
 learning_resource_types:
 - Readings
